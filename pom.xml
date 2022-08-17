@@ -31,7 +31,7 @@
     <inceptionYear>2011</inceptionYear>
     <issueManagement>
         <system>GitHub Issue Tracking</system>
-        <url />
+        <url/>
     </issueManagement>
     <licenses>
         <license>
@@ -186,7 +186,7 @@
             <dependency>
                 <groupId>com.google.code.gson</groupId>
                 <artifactId>gson</artifactId>
-                <version>2.3</version>
+                <version>2.9.0</version>
             </dependency>
 
             <dependency>
