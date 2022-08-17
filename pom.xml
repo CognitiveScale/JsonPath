@@ -31,7 +31,7 @@
     <inceptionYear>2011</inceptionYear>
     <issueManagement>
         <system>GitHub Issue Tracking</system>
-        <url />
+        <url/>
     </issueManagement>
     <licenses>
         <license>
@@ -61,7 +61,7 @@
         <commons-io.version>2.4</commons-io.version>
         <hamcrest.version>1.3</hamcrest.version>
         <jackson.version>2.3.4</jackson.version>
-        <json-smart.version>2.0</json-smart.version>
+        <json-smart.version>2.4.8</json-smart.version>
         <assertj.version>1.6.1</assertj.version>
     </properties>
     <scm>
